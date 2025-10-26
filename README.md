@@ -282,20 +282,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Advanced matching algorithm
 - [ ] Mobile app (React Native/Flutter)
 
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/YOUR_USERNAME/matrimony](https://github.com/YOUR_USERNAME/matrimony)
 
 ## 🙏 Acknowledgments
 
 - MongoDB Atlas for free cloud database hosting
 - Microsoft for excellent .NET documentation
 - The open-source community
+- Cusor and copilot
 
 ---
 
 ⭐ **Star this repo** if you find it helpful!
-
-Made with ❤️ by [Your Name]
