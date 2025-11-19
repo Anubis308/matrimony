@@ -14,7 +14,7 @@ public class MongoDbContext
         _database = client.GetDatabase(settings.Value.DatabaseName);
         
         // Create indexes
-        CreateIndexes();
+        //CreateIndexes();
     }
 
     public IMongoCollection<User> Users => _database.GetCollection<User>("users");
